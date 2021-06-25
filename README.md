@@ -1,7 +1,7 @@
 # Context-Free-Grammars
-Universidad Nacional de San Agustin\n
-Curso: Laboratorio de Teoría de la Computación (7)\n
-Docente: Ing. EDITH PAMELA RIVERO TUPAC
+* Universidad Nacional de San Agustin
+* Curso: Laboratorio de Teoría de la Computación (7)
+* Docente: Ing. Edith Pamela Rivero Tupac
 
 ## Objetivos 
 * Utilizar bison para crear gramáticas independientes de contexto
